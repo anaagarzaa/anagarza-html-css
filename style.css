@@ -57,9 +57,13 @@ dt {
 ul {
     list-style-position: inside;
     list-style-type: square;
+    padding: 0;
+    margin-left: 0em;
   }
 ol {
     list-style-position: inside;
+    padding: 0;
+    margin-left: 0em;
 }
 #nutrition li {
     list-style-type: none;
